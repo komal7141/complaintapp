@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059298123335",
+    "project_id": "cloudcomplaint-ecf2a",
+    "storage_bucket": "cloudcomplaint-ecf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059298123335:android:f6a2383882854cc2ca5b62",
+        "android_client_info": {
+          "package_name": "com.iycreateapp.myhostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn7FzLmzykgxmOA9HhUPz1L_XOefCpOwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
